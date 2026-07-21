@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(213, 236, 221);
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium';
+    font: bold;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    border: solid, rgb(75, 75, 75);
+    border-radius: 10px;
+}
+
+.p_principales{
+    font-size: 20px;
+    border: outset;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(189, 237, 176);
+}
+
+.bebidas{
+    font-size: 20px;
+    border: outset;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(189, 237, 176);
+}
+
+.postres{
+    font-size: 20px;
+    border: outset;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(189, 237, 176);
+}
+
+.adicionales{
+    font-size: 20px;
+    border: outset;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(189, 237, 176);
+}

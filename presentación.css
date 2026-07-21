@@ -1,0 +1,31 @@
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+img{
+    border-radius: 50px;
+    position: relative;
+    left: 680px;
+    border: black, solid;
+    
+}
+
+#parrafo1{
+    font-size: 19px;
+    text-align: justify;
+    
+    
+}
+
+#parrafo2{
+    text-align: center;
+    border-bottom: 3px black solid;
+}
+
+body{
+    background-color: rgb(249, 234, 198);
+    margin: 15px;
+}
